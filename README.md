@@ -1,2 +1,2 @@
 # AmazonClone
- https://anuragbhargav17.github.io/AmazonClone/
+https://raghu18aj.github.io/LandingPageCodeSoft/
